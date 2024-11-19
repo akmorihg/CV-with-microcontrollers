@@ -1,0 +1,2 @@
+extern unsigned char models_conv2_2x2_dense_conv2_2x2_dense_tflite[];
+extern unsigned int models_conv2_2x2_dense_conv2_2x2_dense_tflite_len;

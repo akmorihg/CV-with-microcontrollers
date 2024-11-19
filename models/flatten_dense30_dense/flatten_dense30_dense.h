@@ -1,2 +1,0 @@
-extern unsigned char models_flatten_dense30_dense_flatten_dense30_dense_tflite[];
-extern unsigned int models_flatten_dense30_dense_flatten_dense30_dense_tflite_len;

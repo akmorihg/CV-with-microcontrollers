@@ -1,2 +1,0 @@
-extern unsigned char models_conv32_3x3_dense14_conv32_3x3_dense14_tflite[];
-extern unsigned int models_conv32_3x3_dense14_conv32_3x3_dense14_tflite_len;
